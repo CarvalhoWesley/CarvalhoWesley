@@ -33,13 +33,16 @@ Bem-vindo ao meu repositório no GitHub! Sou Wesley Carvalho, desenvolvedor de s
 ## 📂 Meus Projetos
 
 ### [Getnet Payments Plugin (getnet_payments)](https://github.com/CarvalhoWesley/getnet_payments)  
-> Plugin Flutter para pagamentos via deeplink com Getnet. Suporte para transações com cartão de crédito e débito.
+> Plugin Flutter para pagamentos via deeplink com Getnet. Suporte para trans
+
+### [Palavras Cruzadas](https://play.google.com/store/apps/details?id=br.com.joelabs.crossword.pt_br)  
+> Meu primeiro jogo de palavras cruzadas.ações com cartão de crédito e débito.
 
 ### [Coston](https://coston.com.br)  
-> Aplicativo para compartilhamento de preços de supermercados e postos de combústivel.
+> Aplicativo para compartilhamento de preços de supermercados e postos de combústivel. (Em manutenção)
 
 ### [WorkouHub](https://workouthub.com.br)  
-> Aplicativo para gerenciamento de treino e dietas.
+> Aplicativo para gerenciamento de treino e dietas. (Em manutenção)
 
 ---
 
